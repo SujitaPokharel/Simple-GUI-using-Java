@@ -1,0 +1,13 @@
+This is a part of assignment of "Introduction to Java Programming" (CS 480) of Northwestern Polytechnic University.
+This project is a Based on following instruction by professor :
+
+    
+    ¢(Swing common features)
+      Display a frame that contains six labels. 
+      Set the background of the labels to white. 
+      Set the foreground of the labels to black, blue, cyan, green, magenta, and orange, respectively. 
+      Set the border of each label to a line border with the color yellow. 
+      Set the font of each label to Times Roman, bold, and 20 pixels. 
+      Set the text and tool tip text of each label to the name of its foreground color.
+      
+      Set two different kinds of cursors to the top three labels and the bottom three labels.
