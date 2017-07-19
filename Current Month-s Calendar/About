@@ -1,0 +1,7 @@
+This is a part of assignment of "Introduction to Java Programming" (CS 480) of Northwestern Polytechnic University.
+This project is a Based on following instruction by professor :
+
+    (Display a calendar)
+        Write a program that displays the calendar for the current month. 
+        Use labels, and set text on the labels to display the calendar. 
+        Use the GregorianCalendar class to obtain the information for the month, year, first day of the month, and number of days in the month.
