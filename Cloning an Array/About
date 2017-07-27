@@ -1,2 +1,14 @@
 This is a part of assignment of "Introduction to Java Programming" (CS 480) of Northwestern Polytechnic University.
 This project is a Based on following instruction by professor :
+
+  (Enable the Account class comparable & cloneable)
+  Create ComparableAccount class inheritanced from  the Account class and implemented the comparable interface.
+  Override the compareTo method to compare the balance of two accounts. Also override toString() method.
+  
+  Implements the cloneable interface and override the clone method to perform a deep copy on the dateCreated field.
+  
+  Write a driver program to create one array contains 5 ComparableAcccount objects (account #: 1001-1005, initial balance=$1000). 
+  Make deposit $500 to each account, and withdraw $100 - $500 for each account.
+  Clone all 5 accounts into a new array. 
+  Print out each object info from the cloned array, and use “==“ to compare the dateCreated field of each object from both arrays. 
+  Use Arrays.sort() to sort the original array and print out object info. 
