@@ -1,0 +1,12 @@
+This is a part of assignment of "Introduction to Java Programming" (CS 480) of Northwestern Polytechnic University.
+This project is a Based on following instruction by professor :
+
+
+    (Use radio buttons)
+    
+    Write a GUI program as shown below. 
+    You can use buttons to move the message left and right and use the radio buttons to change the background color 
+    for the message displayed in the message panel.
+    
+    The <= and => buttons move the message on the panel, and the radio buttons change the background color for the message.
+
